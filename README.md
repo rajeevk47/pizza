@@ -63,4 +63,4 @@ Don't forget to give the project a star! Thanks again!
 
 [`web/images`]: https://github.com/shyamjayakannan/rpg/tree/master/web/images
 [`new issue`]: https://github.com/shyamjayakannan/rpg/issues
-[`a Pull Request`]: https://github.com/shyamjayakannan/rpg/pulls
+[`a Pull Request`]: https://github.com/shyamjayakannan/rpg/pulls 
