@@ -42,7 +42,7 @@ pub struct NpcCutscenes {
     pub name: String,
     pub scenes: Vec<Scene>,
 }
-
+ 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct ActionCutscenes {
     pub position: [u16; 2],
